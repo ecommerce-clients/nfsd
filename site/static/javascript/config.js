@@ -1,0 +1,1 @@
+var SubDomain = 'nfsd'; var SiteID = 'E353431A-A97B-4083-96C5-DE4F912F2AF1'; var host = 'https://api.eraconnect.net';
